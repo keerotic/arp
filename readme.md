@@ -22,7 +22,7 @@
 - TODO
 
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/FaceLess.arp) - FaceLess.arp
-- TODO
+> Patches work that's copied form Spark AR Community's [post](https://www.facebook.com/groups/SparkARcommunity/permalink/685266731885372/) 
 
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Fresnel.arp) - Fresnel.arp
 - TODO
@@ -40,7 +40,7 @@
 - TODO
 
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/OR%20PULSE.arp) - OR PULSE.arp
-- TODO
+> Like "Pulse Multiplexer" in Spark AR Library
 
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/SDF%20Round%20Rectangle.arp) - SDF Round Rectangle.arp
 - TODO
