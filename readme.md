@@ -47,3 +47,31 @@
 
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/SDF%20Round%20Rectangle%202.arp) - SDF Round Rectangle 2.arp
 - TODO
+
+#### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/World%20to%20Focal.arp) - World tp Focal.arp
+![World to Focal Image](https://github.com/keerotic/arp/blob/master/img/WorldToFocal.png?raw=true)
+~~~~
+const Scene = require('Scene');
+const Patches = require('Patches');
+const FaceTracking = require('FaceTracking');
+export const Diagnostics = require('Diagnostics');
+
+Promise.all([
+    Scene.root.findFirst('Camera'),
+    Scene.root.findFirst('left_eye'),
+    Scene.root.findFirst('right_eye')
+]).then(results => {
+    const Camera = results[0];
+    const face = FaceTracking.face(0);
+    const left_eye = results[1];
+    const right_eye = results[2];
+
+    left_eye.transform.position = face.leftEye.center;
+    right_eye.transform.position = face.rightEye.center;
+
+    Patches.inputs.setScalar('fd',Camera.focalPlane.distance);
+    Patches.inputs.setPoint('ct_facePosition',face.cameraTransform.position);
+    Patches.inputs.setPoint('wt_leftEyePosition',left_eye.worldTransform.position);
+    Patches.inputs.setPoint('wt_rightEyePosition',right_eye.worldTransform.position);
+});
+~~~~
