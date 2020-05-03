@@ -48,7 +48,7 @@
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/SDF%20Round%20Rectangle%202.arp) - SDF Round Rectangle 2.arp
 - TODO
 
-#### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/World%20to%20Focal.arp) - World tp Focal.arp
+#### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/World%20to%20Focal.arp) - World to Focal.arp
 ![World to Focal Image](https://github.com/keerotic/arp/blob/master/img/WorldToFocal.png?raw=true)
 ~~~~
 const Scene = require('Scene');
