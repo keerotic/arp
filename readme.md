@@ -27,6 +27,9 @@
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Fresnel.arp) - Fresnel.arp
 ![Fresnel Image](https://github.com/keerotic/arp/blob/master/img/Fresnel2.gif?raw=true)
 
+#### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Fresnel%20Shader.arp) - Fresnel Shader.arp
+> Since v83 - able to use Patch Assets as Material's Shader
+
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Fullscreen%20Plane.arp) - Fullscreen Plane.arp
 ![Fullscreen Plane Image](https://github.com/keerotic/arp/blob/master/img/FullscreenPlane.png?raw=true)
 
