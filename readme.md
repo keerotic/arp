@@ -33,6 +33,9 @@
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Fullscreen%20Plane.arp) - Fullscreen Plane.arp
 ![Fullscreen Plane Image](https://github.com/keerotic/arp/blob/master/img/FullscreenPlane.png?raw=true)
 
+#### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Loop%20Animation%202.arp) - Loop Animation 2.arp
+![Loop Animation 2 Image](https://github.com/keerotic/arp/blob/master/img/LoopAnimation2.png?raw=true)
+
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Masking%20Shader.arp) - Masking Shader.arp
 - TODO
 
