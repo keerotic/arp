@@ -33,6 +33,9 @@
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Fullscreen%20Plane.arp) - Fullscreen Plane.arp
 ![Fullscreen Plane Image](https://github.com/keerotic/arp/blob/master/img/FullscreenPlane.png?raw=true)
 
+#### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/6%20Steps%20Gaussian%20Blur.arp) - 6 Steps Gaussian Blur.arp
+- TODO
+
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/Loop%20Animation%202.arp) - Loop Animation 2.arp
 ![Loop Animation 2 Image](https://github.com/keerotic/arp/blob/master/img/LoopAnimation2.png?raw=true)
 
@@ -58,6 +61,9 @@
 - TODO
 
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/SDF%20Round%20Rectangle%202.arp) - SDF Round Rectangle 2.arp
+- TODO
+
+#### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/2D%20Water%20Distortion.arp) - 2D Water Distortion.arp
 - TODO
 
 #### [| ![download](https://github.com/keerotic/arp/blob/master/img/dl16.png?raw=true) |](https://github.com/keerotic/arp/raw/master/World%20to%20Focal.arp) - World to Focal.arp
